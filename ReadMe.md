@@ -68,8 +68,6 @@ This repository contains a **Power BI dashboard** analyzing the performance of *
 ---
 
 
-You can Explore the Dataset here
-![Dano_Airline_Dataset](Dano_Airline_Data.csv)
 ## 🏷️ Tags
 
 `Power BI` `Airline Analytics` `Customer Satisfaction` `Data Visualization` `Business Intelligence` `Dashboard`
